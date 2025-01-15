@@ -1,0 +1,5 @@
+mqtt_ip=127.0.0.1
+mqtt_port=1885
+mqtt_username=SlIPlC12txs7HGtTuGGb
+topic=v1/gateway/telemetry
+hours=2
